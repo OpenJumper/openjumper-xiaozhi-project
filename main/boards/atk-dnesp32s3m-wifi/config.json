@@ -1,0 +1,9 @@
+{
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "AI_Assistant",
+            "sdkconfig_append": []
+        }
+    ]
+}
